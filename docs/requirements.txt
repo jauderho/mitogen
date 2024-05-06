@@ -1,5 +1,5 @@
 docutils<0.18
-Jinja2<3
+Jinja2<4
 MarkupSafe<2.1
 Sphinx==2.1.2; python_version > '3.0'
 sphinxcontrib-programoutput==0.14; python_version > '3.0'
